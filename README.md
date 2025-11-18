@@ -1,7 +1,9 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/b2/b2a1fdcabf7e9ac898b96114b6b06888_w200.gif" width="120" />
+  <img src="https://i.gifer.com/origin/3d/3d21b9a46688942c20fa2745d8b9f16c_w200.gif" width="120" />
 </p>
+
+
 
 ---
 
