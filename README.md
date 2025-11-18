@@ -1,7 +1,12 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=33C481&center=true&vCenter=true&width=600&lines=João+Victor+Teixeira;Desenvolvedor+Java+%26+Spring+Boot;Aprendendo+a+aprender+🚀" alt="Typing SVG" />
+  <img src="LINK_DO_GIF_AQUI" width="140" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=33C481&center=true&vCenter=true&width=600&lines=João+Victor+Teixeira;Desenvolvedor+Java+%26+Spring+Boot;Aprendendo+a+aprender+🚀" />
+</p>
+
 
 ---
 
