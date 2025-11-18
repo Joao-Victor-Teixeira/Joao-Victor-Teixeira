@@ -1,12 +1,7 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="LINK_DO_GIF_AQUI" width="140" />
+  <img src="https://i.gifer.com/origin/b2/b2a1fdcabf7e9ac898b96114b6b06888_w200.gif" width="120" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=33C481&center=true&vCenter=true&width=600&lines=João+Victor+Teixeira;Desenvolvedor+Java+%26+Spring+Boot;Aprendendo+a+aprender+🚀" />
-</p>
-
 
 ---
 
