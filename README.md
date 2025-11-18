@@ -1,77 +1,60 @@
-<!-- Banner ou frase animada -->
+<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Back-end+Developer;Java+%7C+Spring+Boot;Microservices+%7C+Docker;Sempre+aprendendo+e+evoluindo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=33C481&center=true&vCenter=true&width=600&lines=João+Victor+Teixeira;Desenvolvedor+Java+%26+Spring+Boot;Aprendendo+a+aprender+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-Sou desenvolvedor **Back-end Java** focado em criar APIs robustas, escaláveis e seguindo boas práticas de arquitetura.  
-Atualmente estudando profundamente:
+Sou um desenvolvedor em constante evolução, apaixonado por backend, arquitetura limpa e boas práticas.  
+Atualmente focado em:
 
-- **Java 17+**
-- **Spring Boot 3**
+- Desenvolvimento **Java**
+- **Spring Boot 3.x**
 - **Spring Security 6**
-- **APIs REST**
-- **Arquitetura de Microservices**
-- **Docker & Deploy**
-- **Cloud e Observabilidade (em progresso)**
-
-Meu objetivo é me tornar um **Engenheiro de Software Back-end** sólido e dominando ecossistemas modernos.
+- Microserviços
+- Docker (fase final do seu projeto)
+- “**Aprendendo a aprender**” todos os dias 💡
 
 ---
 
-## 🛠️ Tecnologias que uso no dia a dia
-
+## ⚙️ Tecnologias que uso e estudo
 <p align="left">
-
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-33C481?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-33C481?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-33C481?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
 ---
 
-## 📦 Projetos principais
+## 🧩 Projetos em Destaque
+### 🔹 **HR Microservices — Spring Boot 3 + Spring Security 6**
+- Migração completa do projeto original (Spring Boot 2 → 3)  
+- Atualização de **Spring Security 5 → 6**  
+- Arquitetura de microserviços organizada  
+- Config Server já funcional  
+- Docker e deploy chegando na fase final
 
-### 🔥 **Microservices – Spring Boot 3 + Docker + Security 6**
-Reescrevi um curso inteiro do Spring Boot 2 → **para Spring Boot 3 e Spring Security 6**,  
-atualizando dependências, arquitetura, autenticação e repositórios Git centralizados.
-
-> Projeto completo com:  
-> ✔ API Gateway  
-> ✔ Eureka  
-> ✔ Feign Client  
-> ✔ JWT + Security 6  
-> ✔ Docker Compose  
-> ✔ Config Server  
-> ✔ Comunicação síncrona e assíncrona
-
-👉 *(adicione o link do repositório aqui depois!)*
+👉 *Meu carro-chefe até agora — e que mais me fez “aprender a aprender”*.
 
 ---
 
-## 📊 Minhas estatísticas
-
+## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-Teixeira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Teixeira&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joao-Victor-Teixeira&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-Teixeira&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Teixeira&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Contato
+## 🚀 Meta atual
+Evoluir como desenvolvedor Java/Spring — criando projetos reais, entendendo a fundo arquitetura e desenvolvendo a habilidade mais importante de todas:
 
-📩 **E-mail:** jxvxteixeira777@outlook.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/joao-teixeira-
+### 🟢 **"Aprendendo a aprender"**.
 
 ---
+
 
