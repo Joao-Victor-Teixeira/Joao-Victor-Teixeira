@@ -36,7 +36,7 @@ Atualmente o meu foco é:
 
 ## 🧩 Projeto em Destaque
 
-### 🔹 [HR Microservices](https://github.com/Joao-Victor-Teixeira/NOME-DO-REPO-AQUI)
+### 🔹 [HR Microservices](https://github.com/Joao-Victor-Teixeira/hr-microservices-springboot3)
 > *Spring Boot 3 + Spring Security 6*
 
 Este é o meu projeto principal ("carro-chefe"), onde aplico tudo o que aprendo:
