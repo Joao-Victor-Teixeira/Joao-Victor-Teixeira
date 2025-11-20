@@ -43,7 +43,7 @@ Este é o meu projeto principal ("carro-chefe"), onde aplico tudo o que aprendo:
 - [x] Migração completa (Spring Boot 2 → 3)
 - [x] Atualização de **Spring Security 5 → 6**
 - [x] Arquitetura de microserviços organizada e Config Server funcional
-- [ ] Docker e deploy (Fase final 🚧)
+- [x] Docker e deploy (Fase final 🚧)
 
 👉 *O projeto que mais me ensinou a "aprender a aprender".*
 
